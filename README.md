@@ -1,6 +1,6 @@
 # getStockData
 
-This repository is an extension of a [script by CNuge](https://github.com/CNuge/kaggle-code/tree/master/stock_data). Many thanks to you for 
+This repository is an extension of a [script by CNuge](https://github.com/CNuge/kaggle-code/tree/master/stock_data). Many thanks
 
 Reasons for changes:
 * In the original file, the use of pandas_datareader causes an error. I have switched to yfinance to prevent this issue.
