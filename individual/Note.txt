@@ -1,0 +1,2 @@
+This output folder is required for the script to run, but Git does not track empty directories.
+So, this is here to prevent confusion. 
